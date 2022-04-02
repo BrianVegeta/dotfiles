@@ -1,0 +1,58 @@
+.bash_history
+.bash_sessions
+.bundle
+.cache/
+.CFUserTextEncoding
+.config/
+.DS_Store
+.gem
+.gnupg/
+.irb-history
+.local/
+.mysql_history
+.npm/
+.nvm/
+.oracle_jre_usage/
+.subversion/
+.ssh/
+.puma-dev/
+.pry_history
+.rvm/
+.z
+
+# === Workspace
+projects
+projects_superlanding/
+
+# === Mac
+.Trash/
+Documents/
+Applications/
+Applications (Parallels)
+Creative Cloud Files/
+Desktop/
+Downloads/
+Library/
+Movies/
+Music/
+Parallels/
+Pictures/
+Public/
+config/
+
+# === Vim.
+.vim/
+.vimgolf/
+.viminfo
+
+# === Yarn / Node
+.yarn/
+node_modules/
+
+# === Zsh
+.zsh_history
+.zsh/
+.oh-my-zsh/
+
+# === Others
+.zcompdump-*
