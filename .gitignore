@@ -44,7 +44,6 @@ config/
 .vim/
 .vimgolf/
 .viminfo
-
 # === Yarn / Node
 .yarn/
 node_modules/
